@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "b4447ad5-a2ba-4b6e-9146-53621cac2eb1",
+            "Value": {
+                "id": "0729f23c-29c3-4338-a85b-4fa7479460e2",
+                "resourcePath": "sprites\\spr_DrewTest\\spr_DrewTest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b4b4cdca-01a1-4e2e-86c6-b17a545bdc91",
             "Value": {
                 "id": "4f74811e-1a09-4a03-abcd-8c5dd5fded1b",
