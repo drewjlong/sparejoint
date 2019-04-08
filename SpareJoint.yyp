@@ -186,7 +186,7 @@
             "Key": "3ed03777-19e8-465c-af4b-b1583665c366",
             "Value": {
                 "id": "98874cfd-297c-46b4-aaac-bb62fe1cf5ac",
-                "resourcePath": "sprites\\spr_losebutton\\spr_losebutton.yy",
+                "resourcePath": "sprites\\spr_restart\\spr_restart.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -636,6 +636,14 @@
                 "id": "5bb9b997-d6b5-4efa-b241-32c5ef7d2342",
                 "resourcePath": "views\\fbeb4404-cb5a-478b-b1d9-538ddd261135.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fd4f22a5-8e92-44dd-87b0-26e304040495",
+            "Value": {
+                "id": "4d4d6835-916b-429d-a836-f3a0b63b35fd",
+                "resourcePath": "objects\\o_win\\o_win.yy",
+                "resourceType": "GMObject"
             }
         },
         {
