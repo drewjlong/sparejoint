@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "3ed03777-19e8-465c-af4b-b1583665c366",
+            "Value": {
+                "id": "98874cfd-297c-46b4-aaac-bb62fe1cf5ac",
+                "resourcePath": "sprites\\spr_losebutton\\spr_losebutton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4331fa0d-5fa4-4b04-ba7d-63490340050c",
             "Value": {
                 "id": "21f92174-1e60-4b87-af83-2490ed13f30f",
@@ -212,6 +220,14 @@
                 "id": "790db7d4-c3d3-4199-884c-4377312492a2",
                 "resourcePath": "datafiles_yy\\sprites\\spr_background\\a0697c63-5ec0-43fa-b2b1-4da16979815c.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5f4703c9-18ab-4178-8adc-b06d7a5129ac",
+            "Value": {
+                "id": "5098d949-10fb-4e27-8d95-e8335fc02c39",
+                "resourcePath": "objects\\o_lose\\o_lose.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -356,6 +372,14 @@
                 "id": "8c4fc25f-82cf-49fb-bf14-317a2f6326c5",
                 "resourcePath": "rooms\\r_win\\r_win.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a859a6b3-0054-44bf-b0a1-f2429ce0a60b",
+            "Value": {
+                "id": "7ab77705-5cba-4057-b71a-7cba10c1680c",
+                "resourcePath": "objects\\o_start\\o_start.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -572,6 +596,14 @@
                 "id": "9e733be9-e13a-4d58-98a4-61c7979f2e3e",
                 "resourcePath": "views\\f9d7571f-cc10-48b3-a298-3a68c0cbad7e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fb93ec0d-7632-490c-bd1f-18f9dc2d2774",
+            "Value": {
+                "id": "169ac83c-dfb4-4960-8f71-9d256908d5f6",
+                "resourcePath": "sprites\\spr_start\\spr_start.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
