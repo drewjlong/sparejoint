@@ -3,3 +3,4 @@
 room_speed=30;
 seconds=10;
 alarm_set(0,room_speed);
+score=0;

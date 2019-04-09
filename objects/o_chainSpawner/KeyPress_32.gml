@@ -10,3 +10,5 @@ else{
 	instance_create_layer(x,y,"chain2Layer",o_chain2);
 	chainTimer = 0;
 }
+
+score+=1
