@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "944278c0-a872-4e55-9c67-6ba49b571a2e",
+            "Value": {
+                "id": "0dbf54e0-2073-4fa4-9a2d-d7b00c2000ab",
+                "resourcePath": "objects\\o_timerBox\\o_timerBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "945d8528-b474-41ad-b146-86dbf7bd1748",
             "Value": {
                 "id": "cf66f783-0c1f-492e-9319-f5de0f368604",
